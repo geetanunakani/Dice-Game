@@ -1,5 +1,4 @@
-# Dice-Game
-A simple Dice Game built using HTML, CSS, and JavaScript where two players roll dice and the winner is displayed.
+
 # 🎲 Dicee Game
 
 A fun and simple dice game built using HTML, CSS, and JavaScript.
